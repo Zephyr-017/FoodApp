@@ -11,12 +11,13 @@
 FoodApp adalah aplikasi Android yang menyajikan informasi kuliner global secara real-time dengan memanfaatkan API publik dari TheMealDB. Aplikasi ini dirancang untuk memberikan inspirasi menu makanan kepada pengguna melalui antarmuka yang modern, bersih, dan responsif.
 
 ## Fitur yang Diimplementasikan
-Randomized Meal Fetching: Mengambil dan menampilkan 10 menu makanan secara acak dari database global pada setiap kali aplikasi dimuat atau diperbarui.
-List/Grid Toggle: Fitur untuk mengubah tata letak tampilan antara mode List (Daftar) dan Grid (Kisi) secara instan melalui toolbar.
-Halaman Detail: Menyajikan informasi lengkap mengenai menu pilihan, termasuk instruksi memasak mendetail dan gambar berkualitas tinggi.
-Swipe-to-Refresh: Memungkinkan pengguna untuk memperbarui daftar 10 makanan acak dengan cara menarik layar ke bawah.
-Material 3 UI & Transitions: Penggunaan komponen Material Design 3 dan AutoTransition untuk memberikan pengalaman visual yang halus dan modern.
-Optimasi Gambar: Integrasi library Glide untuk pemuatan gambar yang cepat dan efisien.
+
+- **Randomized Meal Fetching:** Mengambil dan menampilkan 10 menu makanan secara acak dari database global pada setiap kali aplikasi dimuat atau diperbarui.
+- **List/Grid Toggle:** Fitur untuk mengubah tata letak tampilan antara mode List (Daftar) dan Grid (Kisi) secara instan melalui toolbar.
+- **Halaman Detail:** Menyajikan informasi lengkap mengenai menu pilihan, termasuk instruksi memasak mendetail dan gambar berkualitas tinggi.
+- **Swipe-to-Refresh:** Memungkinkan pengguna untuk memperbarui daftar 10 makanan acak dengan cara menarik layar ke bawah.
+- **Material 3 UI & Transitions:** Penggunaan komponen Material Design 3 dan AutoTransition untuk memberikan pengalaman visual yang halus dan modern.
+- **Optimasi Gambar:** Integrasi library Glide untuk pemuatan gambar yang cepat dan efisien.
 
 ## Screenshot
 
